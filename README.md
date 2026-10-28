@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋 I'm Keren Osida
 
-<!--
-**Osidake/Osidake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 First-year Computer Science student @ University of the People (UoPeople)
+- 🌱 Currently learning: Python & UNIV 1001 Study Skills
+- 📍 Komarock, Nairobi, Kenya
+- 🎯 Goal: Software Developer Internship by 2027
+- 💻 Working on: GPA Calculator Project
+- 📫 Reach me: osidake@gmail.com
 
-Here are some ideas to get you started:
+### About Me
+I am passionate about technology and starting my journey in Computer Science. Currently focused on building strong fundamentals in programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills (Learning)
+- Python (beginner)
+- Git & GitHub
+- Academic Writing & Research (APA)
